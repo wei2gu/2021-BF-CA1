@@ -1,0 +1,883 @@
+Sample,Organism,RPM,GoldStandard,Type,SampleType,mNGSRun
+193ft,Aspergillus fumigatus,0.4,Gold Standard,MicroSelected,BAL,BF5; hiseqMix1
+193ft,Aspergillus terreus,0,Negatives,MicroSelected,BAL,BF5; hiseqMix1
+193ft,Coccidioides immitis,0,Negatives,MicroSelected,BAL,BF5; hiseqMix1
+193ft,Cryptococcus neoformans,0,Negatives,MicroSelected,BAL,BF5; hiseqMix1
+193ft,Talaromyces marneffei,0,Negatives,MicroSelected,BAL,BF5; hiseqMix1
+193ft,Histoplasma capsulatum,0,Negatives,MicroSelected,BAL,BF5; hiseqMix1
+193ft,Mycobacterium tuberculosis,0,Negatives,MicroSelected,BAL,BF5; hiseqMix1
+349,Aspergillus fumigatus,0,Negatives,MicroSelected,BAL,BF21
+349,Aspergillus terreus,0,Negatives,MicroSelected,BAL,BF21
+349,Coccidioides immitis,2.1,Gold Standard,MicroSelected,BAL,BF21
+349,Cryptococcus neoformans,0,Negatives,MicroSelected,BAL,BF21
+349,Talaromyces marneffei,0,Negatives,MicroSelected,BAL,BF21
+349,Histoplasma capsulatum,0,Negatives,MicroSelected,BAL,BF21
+349,Mycobacterium tuberculosis,0,Negatives,MicroSelected,BAL,BF21
+502,Aspergillus fumigatus,3,Gold Standard,MicroSelected,BAL,BF16
+502,Aspergillus terreus,9.5,Gold Standard,MicroSelected,BAL,BF16
+502,Coccidioides immitis,0,Negatives,MicroSelected,BAL,BF16
+502,Cryptococcus neoformans,0,Negatives,MicroSelected,BAL,BF16
+502,Talaromyces marneffei,0,Negatives,MicroSelected,BAL,BF16
+502,Histoplasma capsulatum,0,Negatives,MicroSelected,BAL,BF16
+502,Mycobacterium tuberculosis,0,Negatives,MicroSelected,BAL,BF16
+649,Aspergillus fumigatus,0.5,Negatives,MicroSelected,BAL,BF19hiseq
+649,Aspergillus terreus,0,Negatives,MicroSelected,BAL,BF19hiseq
+649,Coccidioides immitis,0,Negatives,MicroSelected,BAL,BF19hiseq
+649,Cryptococcus neoformans,116.8,Gold Standard,MicroSelected,BAL,BF19hiseq
+649,Talaromyces marneffei,0,Negatives,MicroSelected,BAL,BF19hiseq
+649,Histoplasma capsulatum,0,Negatives,MicroSelected,BAL,BF19hiseq
+649,Mycobacterium tuberculosis,0,Negatives,MicroSelected,BAL,BF19hiseq
+540,Aspergillus fumigatus,0,Negatives,MicroSelected,Bronchial Wash,BF17
+540,Aspergillus terreus,0.04,Negatives,MicroSelected,Bronchial Wash,BF17
+540,Coccidioides immitis,0,Negatives,MicroSelected,Bronchial Wash,BF17
+540,Cryptococcus neoformans,0,Negatives,MicroSelected,Bronchial Wash,BF17
+540,Talaromyces marneffei,1917,Gold Standard,MicroSelected,Bronchial Wash,BF17
+540,Histoplasma capsulatum,0,Negatives,MicroSelected,Bronchial Wash,BF17
+540,Mycobacterium tuberculosis,0,Negatives,MicroSelected,Bronchial Wash,BF17
+496,Aspergillus fumigatus,0,Negatives,MicroSelected,Pleural Fluid,n/a
+496,Aspergillus terreus,0,Negatives,MicroSelected,Pleural Fluid,n/a
+496,Coccidioides immitis,81,Gold Standard,MicroSelected,Pleural Fluid,n/a
+496,Cryptococcus neoformans,0,Negatives,MicroSelected,Pleural Fluid,n/a
+496,Talaromyces marneffei,0,Negatives,MicroSelected,Pleural Fluid,n/a
+496,Histoplasma capsulatum,0.2,Negatives,MicroSelected,Pleural Fluid,n/a
+496,Mycobacterium tuberculosis,0,Negatives,MicroSelected,Pleural Fluid,n/a
+757,Aspergillus fumigatus,0,Negatives,MicroSelected,FNA,BF21
+757,Aspergillus terreus,0,Negatives,MicroSelected,FNA,BF21
+757,Coccidioides immitis,0,Negatives,MicroSelected,FNA,BF21
+757,Cryptococcus neoformans,0,Negatives,MicroSelected,FNA,BF21
+757,Talaromyces marneffei,0,Negatives,MicroSelected,FNA,BF21
+757,Histoplasma capsulatum,0,Negatives,MicroSelected,FNA,BF21
+757,Mycobacterium tuberculosis,11.2,Gold Standard,MicroSelected,FNA,BF21
+369,Aspergillus fumigatus,6.8,Gold Standard,MicroSelected,Pleural Fluid,BF11
+369,Aspergillus terreus,0,Negatives,MicroSelected,Pleural Fluid,BF11
+369,Coccidioides immitis,0,Negatives,MicroSelected,Pleural Fluid,BF11
+369,Cryptococcus neoformans,0,Negatives,MicroSelected,Pleural Fluid,BF11
+369,Talaromyces marneffei,0,Negatives,MicroSelected,Pleural Fluid,BF11
+369,Histoplasma capsulatum,0,Negatives,MicroSelected,Pleural Fluid,BF11
+369,Mycobacterium tuberculosis,0,Negatives,MicroSelected,Pleural Fluid,BF11
+1064,Aspergillus fumigatus,0,Negatives,MicroSelected,BAL,BF23
+1064,Aspergillus terreus,0,Negatives,MicroSelected,BAL,BF23
+1064,Coccidioides immitis,0,Negatives,MicroSelected,BAL,BF23
+1064,Cryptococcus neoformans,0,Negatives,MicroSelected,BAL,BF23
+1064,Talaromyces marneffei,0,Negatives,MicroSelected,BAL,BF23
+1064,Histoplasma capsulatum,3.4,Gold Standard,MicroSelected,BAL,BF23
+1064,Mycobacterium tuberculosis,0,Negatives,MicroSelected,BAL,BF23
+290,Aspergillus fumigatus,0,Negatives,CAPosCyto,Pleural Fluid,BF11
+290,Aspergillus terreus,0,Negatives,CAPosCyto,Pleural Fluid,BF11
+290,Coccidioides immitis,0,Negatives,CAPosCyto,Pleural Fluid,BF11
+290,Cryptococcus neoformans,0,Negatives,CAPosCyto,Pleural Fluid,BF11
+290,Talaromyces marneffei,0,Negatives,CAPosCyto,Pleural Fluid,BF11
+290,Histoplasma capsulatum,0,Negatives,CAPosCyto,Pleural Fluid,BF11
+290,Mycobacterium tuberculosis,0,Negatives,CAPosCyto,Pleural Fluid,BF11
+563,Aspergillus fumigatus,0,Negatives,CAPosCyto,Peritoneal Fluid,BF17
+563,Aspergillus terreus,0,Negatives,CAPosCyto,Peritoneal Fluid,BF17
+563,Coccidioides immitis,0,Negatives,CAPosCyto,Peritoneal Fluid,BF17
+563,Cryptococcus neoformans,0,Negatives,CAPosCyto,Peritoneal Fluid,BF17
+563,Talaromyces marneffei,0,Negatives,CAPosCyto,Peritoneal Fluid,BF17
+563,Histoplasma capsulatum,0,Negatives,CAPosCyto,Peritoneal Fluid,BF17
+563,Mycobacterium tuberculosis,0,Negatives,CAPosCyto,Peritoneal Fluid,BF17
+618,Aspergillus fumigatus,0,Negatives,CAPosCyto,Pleural Fluid,BF18
+618,Aspergillus terreus,0,Negatives,CAPosCyto,Pleural Fluid,BF18
+618,Coccidioides immitis,0,Negatives,CAPosCyto,Pleural Fluid,BF18
+618,Cryptococcus neoformans,0,Negatives,CAPosCyto,Pleural Fluid,BF18
+618,Talaromyces marneffei,0,Negatives,CAPosCyto,Pleural Fluid,BF18
+618,Histoplasma capsulatum,0,Negatives,CAPosCyto,Pleural Fluid,BF18
+618,Mycobacterium tuberculosis,0,Negatives,CAPosCyto,Pleural Fluid,BF18
+721,Aspergillus fumigatus,0,Negatives,CAPosCyto,Pleural Fluid,BF21
+721,Aspergillus terreus,0,Negatives,CAPosCyto,Pleural Fluid,BF21
+721,Coccidioides immitis,0,Negatives,CAPosCyto,Pleural Fluid,BF21
+721,Cryptococcus neoformans,0,Negatives,CAPosCyto,Pleural Fluid,BF21
+721,Talaromyces marneffei,0,Negatives,CAPosCyto,Pleural Fluid,BF21
+721,Histoplasma capsulatum,0,Negatives,CAPosCyto,Pleural Fluid,BF21
+721,Mycobacterium tuberculosis,0,Negatives,CAPosCyto,Pleural Fluid,BF21
+857,Aspergillus fumigatus,0,Negatives,CAPosCyto,Pericardial Fluid,BF22
+857,Aspergillus terreus,0,Negatives,CAPosCyto,Pericardial Fluid,BF22
+857,Coccidioides immitis,0,Negatives,CAPosCyto,Pericardial Fluid,BF22
+857,Cryptococcus neoformans,0,Negatives,CAPosCyto,Pericardial Fluid,BF22
+857,Talaromyces marneffei,0,Negatives,CAPosCyto,Pericardial Fluid,BF22
+857,Histoplasma capsulatum,0,Negatives,CAPosCyto,Pericardial Fluid,BF22
+857,Mycobacterium tuberculosis,0,Negatives,CAPosCyto,Pericardial Fluid,BF22
+902,Aspergillus fumigatus,0,Negatives,CAPosCyto,Pleural Fluid,BF22
+902,Aspergillus terreus,0,Negatives,CAPosCyto,Pleural Fluid,BF22
+902,Coccidioides immitis,0,Negatives,CAPosCyto,Pleural Fluid,BF22
+902,Cryptococcus neoformans,0,Negatives,CAPosCyto,Pleural Fluid,BF22
+902,Talaromyces marneffei,0,Negatives,CAPosCyto,Pleural Fluid,BF22
+902,Histoplasma capsulatum,0,Negatives,CAPosCyto,Pleural Fluid,BF22
+902,Mycobacterium tuberculosis,0,Negatives,CAPosCyto,Pleural Fluid,BF22
+949,Aspergillus fumigatus,0,Negatives,CAPosCytoFlow,Pleural Fluid,BF22
+949,Aspergillus terreus,0,Negatives,CAPosCytoFlow,Pleural Fluid,BF22
+949,Coccidioides immitis,0,Negatives,CAPosCytoFlow,Pleural Fluid,BF22
+949,Cryptococcus neoformans,0.1,Negatives,CAPosCytoFlow,Pleural Fluid,BF22
+949,Talaromyces marneffei,0,Negatives,CAPosCytoFlow,Pleural Fluid,BF22
+949,Histoplasma capsulatum,0,Negatives,CAPosCytoFlow,Pleural Fluid,BF22
+949,Mycobacterium tuberculosis,0,Negatives,CAPosCytoFlow,Pleural Fluid,BF22
+1033,Aspergillus fumigatus,0,Negatives,CAPosCyto,Peritoneal wash (immuno),BF22
+1033,Aspergillus terreus,0,Negatives,CAPosCyto,Peritoneal wash (immuno),BF22
+1033,Coccidioides immitis,0,Negatives,CAPosCyto,Peritoneal wash (immuno),BF22
+1033,Cryptococcus neoformans,0,Negatives,CAPosCyto,Peritoneal wash (immuno),BF22
+1033,Talaromyces marneffei,0,Negatives,CAPosCyto,Peritoneal wash (immuno),BF22
+1033,Histoplasma capsulatum,0,Negatives,CAPosCyto,Peritoneal wash (immuno),BF22
+1033,Mycobacterium tuberculosis,0,Negatives,CAPosCyto,Peritoneal wash (immuno),BF22
+977,Aspergillus fumigatus,0,Negatives,CAPosCyto,Pleural Fluid,BF22
+977,Aspergillus terreus,0,Negatives,CAPosCyto,Pleural Fluid,BF22
+977,Coccidioides immitis,0,Negatives,CAPosCyto,Pleural Fluid,BF22
+977,Cryptococcus neoformans,0,Negatives,CAPosCyto,Pleural Fluid,BF22
+977,Talaromyces marneffei,0,Negatives,CAPosCyto,Pleural Fluid,BF22
+977,Histoplasma capsulatum,0,Negatives,CAPosCyto,Pleural Fluid,BF22
+977,Mycobacterium tuberculosis,0,Negatives,CAPosCyto,Pleural Fluid,BF22
+979,Aspergillus fumigatus,0,Negatives,CAPosCyto,Peritoneal Fluid,BF22
+979,Aspergillus terreus,0,Negatives,CAPosCyto,Peritoneal Fluid,BF22
+979,Coccidioides immitis,0,Negatives,CAPosCyto,Peritoneal Fluid,BF22
+979,Cryptococcus neoformans,0,Negatives,CAPosCyto,Peritoneal Fluid,BF22
+979,Talaromyces marneffei,0,Negatives,CAPosCyto,Peritoneal Fluid,BF22
+979,Histoplasma capsulatum,0,Negatives,CAPosCyto,Peritoneal Fluid,BF22
+979,Mycobacterium tuberculosis,0,Negatives,CAPosCyto,Peritoneal Fluid,BF22
+980,Aspergillus fumigatus,0,Negatives,CAPosCyto,Pleural Fluid,BF22
+980,Aspergillus terreus,0,Negatives,CAPosCyto,Pleural Fluid,BF22
+980,Coccidioides immitis,0,Negatives,CAPosCyto,Pleural Fluid,BF22
+980,Cryptococcus neoformans,0,Negatives,CAPosCyto,Pleural Fluid,BF22
+980,Talaromyces marneffei,0,Negatives,CAPosCyto,Pleural Fluid,BF22
+980,Histoplasma capsulatum,0,Negatives,CAPosCyto,Pleural Fluid,BF22
+980,Mycobacterium tuberculosis,0,Negatives,CAPosCyto,Pleural Fluid,BF22
+981,Aspergillus fumigatus,0,Negatives,CAPosCyto,Pleural Fluid,BF22
+981,Aspergillus terreus,0,Negatives,CAPosCyto,Pleural Fluid,BF22
+981,Coccidioides immitis,0,Negatives,CAPosCyto,Pleural Fluid,BF22
+981,Cryptococcus neoformans,0,Negatives,CAPosCyto,Pleural Fluid,BF22
+981,Talaromyces marneffei,0,Negatives,CAPosCyto,Pleural Fluid,BF22
+981,Histoplasma capsulatum,0,Negatives,CAPosCyto,Pleural Fluid,BF22
+981,Mycobacterium tuberculosis,0,Negatives,CAPosCyto,Pleural Fluid,BF22
+266,Aspergillus fumigatus,0,Negatives,CAPosFlow,Pleural Fluid,BF22
+266,Aspergillus terreus,0,Negatives,CAPosFlow,Pleural Fluid,BF22
+266,Coccidioides immitis,0,Negatives,CAPosFlow,Pleural Fluid,BF22
+266,Cryptococcus neoformans,0,Negatives,CAPosFlow,Pleural Fluid,BF22
+266,Talaromyces marneffei,0,Negatives,CAPosFlow,Pleural Fluid,BF22
+266,Histoplasma capsulatum,0,Negatives,CAPosFlow,Pleural Fluid,BF22
+266,Mycobacterium tuberculosis,0,Negatives,CAPosFlow,Pleural Fluid,BF22
+947,Aspergillus fumigatus,0,Negatives,CAPosFlow,Pleural Fluid,BF22
+947,Aspergillus terreus,0,Negatives,CAPosFlow,Pleural Fluid,BF22
+947,Coccidioides immitis,0,Negatives,CAPosFlow,Pleural Fluid,BF22
+947,Cryptococcus neoformans,0.1,Negatives,CAPosFlow,Pleural Fluid,BF22
+947,Talaromyces marneffei,0,Negatives,CAPosFlow,Pleural Fluid,BF22
+947,Histoplasma capsulatum,0,Negatives,CAPosFlow,Pleural Fluid,BF22
+947,Mycobacterium tuberculosis,0,Negatives,CAPosFlow,Pleural Fluid,BF22
+950,Aspergillus fumigatus,0,Negatives,CAPosFlow,Pleural Fluid,BF22
+950,Aspergillus terreus,0,Negatives,CAPosFlow,Pleural Fluid,BF22
+950,Coccidioides immitis,0,Negatives,CAPosFlow,Pleural Fluid,BF22
+950,Cryptococcus neoformans,0,Negatives,CAPosFlow,Pleural Fluid,BF22
+950,Talaromyces marneffei,0,Negatives,CAPosFlow,Pleural Fluid,BF22
+950,Histoplasma capsulatum,0,Negatives,CAPosFlow,Pleural Fluid,BF22
+950,Mycobacterium tuberculosis,0,Negatives,CAPosFlow,Pleural Fluid,BF22
+1053,Aspergillus fumigatus,0,Negatives,CAPosCyto,Pleural Fluid,BF23
+1053,Aspergillus terreus,0,Negatives,CAPosCyto,Pleural Fluid,BF23
+1053,Coccidioides immitis,0,Negatives,CAPosCyto,Pleural Fluid,BF23
+1053,Cryptococcus neoformans,0,Negatives,CAPosCyto,Pleural Fluid,BF23
+1053,Talaromyces marneffei,0,Negatives,CAPosCyto,Pleural Fluid,BF23
+1053,Histoplasma capsulatum,0,Negatives,CAPosCyto,Pleural Fluid,BF23
+1053,Mycobacterium tuberculosis,0,Negatives,CAPosCyto,Pleural Fluid,BF23
+1091,Aspergillus fumigatus,0,Negatives,CAPosCyto,Pleural Fluid,BF23
+1091,Aspergillus terreus,0,Negatives,CAPosCyto,Pleural Fluid,BF23
+1091,Coccidioides immitis,0,Negatives,CAPosCyto,Pleural Fluid,BF23
+1091,Cryptococcus neoformans,0,Negatives,CAPosCyto,Pleural Fluid,BF23
+1091,Talaromyces marneffei,0,Negatives,CAPosCyto,Pleural Fluid,BF23
+1091,Histoplasma capsulatum,0,Negatives,CAPosCyto,Pleural Fluid,BF23
+1091,Mycobacterium tuberculosis,0,Negatives,CAPosCyto,Pleural Fluid,BF23
+1092,Aspergillus fumigatus,0,Negatives,CAPosCyto,Pleural Fluid,BF23
+1092,Aspergillus terreus,0,Negatives,CAPosCyto,Pleural Fluid,BF23
+1092,Coccidioides immitis,0,Negatives,CAPosCyto,Pleural Fluid,BF23
+1092,Cryptococcus neoformans,0,Negatives,CAPosCyto,Pleural Fluid,BF23
+1092,Talaromyces marneffei,0,Negatives,CAPosCyto,Pleural Fluid,BF23
+1092,Histoplasma capsulatum,0,Negatives,CAPosCyto,Pleural Fluid,BF23
+1092,Mycobacterium tuberculosis,0,Negatives,CAPosCyto,Pleural Fluid,BF23
+1094,Aspergillus fumigatus,0,Negatives,CAPosCyto,Pleural Fluid,BF23
+1094,Aspergillus terreus,0,Negatives,CAPosCyto,Pleural Fluid,BF23
+1094,Coccidioides immitis,0,Negatives,CAPosCyto,Pleural Fluid,BF23
+1094,Cryptococcus neoformans,0,Negatives,CAPosCyto,Pleural Fluid,BF23
+1094,Talaromyces marneffei,0,Negatives,CAPosCyto,Pleural Fluid,BF23
+1094,Histoplasma capsulatum,0,Negatives,CAPosCyto,Pleural Fluid,BF23
+1094,Mycobacterium tuberculosis,0,Negatives,CAPosCyto,Pleural Fluid,BF23
+1121,Aspergillus fumigatus,0,Negatives,CAPosCyto,Peritoneal Fluid,BF23
+1121,Aspergillus terreus,0,Negatives,CAPosCyto,Peritoneal Fluid,BF23
+1121,Coccidioides immitis,0,Negatives,CAPosCyto,Peritoneal Fluid,BF23
+1121,Cryptococcus neoformans,0,Negatives,CAPosCyto,Peritoneal Fluid,BF23
+1121,Talaromyces marneffei,0,Negatives,CAPosCyto,Peritoneal Fluid,BF23
+1121,Histoplasma capsulatum,0,Negatives,CAPosCyto,Peritoneal Fluid,BF23
+1121,Mycobacterium tuberculosis,0,Negatives,CAPosCyto,Peritoneal Fluid,BF23
+1124,Aspergillus fumigatus,0,Negatives,CAPosCyto,Pleural Fluid,BF23
+1124,Aspergillus terreus,0,Negatives,CAPosCyto,Pleural Fluid,BF23
+1124,Coccidioides immitis,0,Negatives,CAPosCyto,Pleural Fluid,BF23
+1124,Cryptococcus neoformans,0,Negatives,CAPosCyto,Pleural Fluid,BF23
+1124,Talaromyces marneffei,0,Negatives,CAPosCyto,Pleural Fluid,BF23
+1124,Histoplasma capsulatum,0,Negatives,CAPosCyto,Pleural Fluid,BF23
+1124,Mycobacterium tuberculosis,0,Negatives,CAPosCyto,Pleural Fluid,BF23
+1138,Aspergillus fumigatus,0,Negatives,CAPosCyto,Peritoneal Fluid,BF23
+1138,Aspergillus terreus,0,Negatives,CAPosCyto,Peritoneal Fluid,BF23
+1138,Coccidioides immitis,0,Negatives,CAPosCyto,Peritoneal Fluid,BF23
+1138,Cryptococcus neoformans,0,Negatives,CAPosCyto,Peritoneal Fluid,BF23
+1138,Talaromyces marneffei,0,Negatives,CAPosCyto,Peritoneal Fluid,BF23
+1138,Histoplasma capsulatum,0,Negatives,CAPosCyto,Peritoneal Fluid,BF23
+1138,Mycobacterium tuberculosis,0,Negatives,CAPosCyto,Peritoneal Fluid,BF23
+854,Aspergillus fumigatus,0,Negatives,CAPosFlow,Pleural Fluid,BF22
+854,Aspergillus terreus,0,Negatives,CAPosFlow,Pleural Fluid,BF22
+854,Coccidioides immitis,0,Negatives,CAPosFlow,Pleural Fluid,BF22
+854,Cryptococcus neoformans,0.2,Negatives,CAPosFlow,Pleural Fluid,BF22
+854,Talaromyces marneffei,0,Negatives,CAPosFlow,Pleural Fluid,BF22
+854,Histoplasma capsulatum,0,Negatives,CAPosFlow,Pleural Fluid,BF22
+854,Mycobacterium tuberculosis,0,Negatives,CAPosFlow,Pleural Fluid,BF22
+1153LW6,Aspergillus fumigatus,0,Negatives,CAPosCyto,Pleural Fluid,BF23
+1153LW6,Aspergillus terreus,0,Negatives,CAPosCyto,Pleural Fluid,BF23
+1153LW6,Coccidioides immitis,0,Negatives,CAPosCyto,Pleural Fluid,BF23
+1153LW6,Cryptococcus neoformans,0,Negatives,CAPosCyto,Pleural Fluid,BF23
+1153LW6,Talaromyces marneffei,0,Negatives,CAPosCyto,Pleural Fluid,BF23
+1153LW6,Histoplasma capsulatum,0,Negatives,CAPosCyto,Pleural Fluid,BF23
+1153LW6,Mycobacterium tuberculosis,0,Negatives,CAPosCyto,Pleural Fluid,BF23
+1159LW15,Aspergillus fumigatus,0,Negatives,CAPosCyto,Peritoneal Fluid,BF23
+1159LW15,Aspergillus terreus,0,Negatives,CAPosCyto,Peritoneal Fluid,BF23
+1159LW15,Coccidioides immitis,0,Negatives,CAPosCyto,Peritoneal Fluid,BF23
+1159LW15,Cryptococcus neoformans,0,Negatives,CAPosCyto,Peritoneal Fluid,BF23
+1159LW15,Talaromyces marneffei,0,Negatives,CAPosCyto,Peritoneal Fluid,BF23
+1159LW15,Histoplasma capsulatum,0,Negatives,CAPosCyto,Peritoneal Fluid,BF23
+1159LW15,Mycobacterium tuberculosis,0,Negatives,CAPosCyto,Peritoneal Fluid,BF23
+1168LW25,Aspergillus fumigatus,0,Negatives,CAPosCyto,Peritoneal Fluid,BF23
+1168LW25,Aspergillus terreus,0,Negatives,CAPosCyto,Peritoneal Fluid,BF23
+1168LW25,Coccidioides immitis,0,Negatives,CAPosCyto,Peritoneal Fluid,BF23
+1168LW25,Cryptococcus neoformans,0,Negatives,CAPosCyto,Peritoneal Fluid,BF23
+1168LW25,Talaromyces marneffei,0,Negatives,CAPosCyto,Peritoneal Fluid,BF23
+1168LW25,Histoplasma capsulatum,0,Negatives,CAPosCyto,Peritoneal Fluid,BF23
+1168LW25,Mycobacterium tuberculosis,0,Negatives,CAPosCyto,Peritoneal Fluid,BF23
+1169LW26,Aspergillus fumigatus,0,Negatives,CAPosCyto,Peritoneal Fluid,BF23
+1169LW26,Aspergillus terreus,0,Negatives,CAPosCyto,Peritoneal Fluid,BF23
+1169LW26,Coccidioides immitis,0,Negatives,CAPosCyto,Peritoneal Fluid,BF23
+1169LW26,Cryptococcus neoformans,0,Negatives,CAPosCyto,Peritoneal Fluid,BF23
+1169LW26,Talaromyces marneffei,0,Negatives,CAPosCyto,Peritoneal Fluid,BF23
+1169LW26,Histoplasma capsulatum,0,Negatives,CAPosCyto,Peritoneal Fluid,BF23
+1169LW26,Mycobacterium tuberculosis,0,Negatives,CAPosCyto,Peritoneal Fluid,BF23
+495,Aspergillus fumigatus,0,Negatives,CAProbPos,Pleural Fluid,BF16
+495,Aspergillus terreus,0,Negatives,CAProbPos,Pleural Fluid,BF16
+495,Coccidioides immitis,0,Negatives,CAProbPos,Pleural Fluid,BF16
+495,Cryptococcus neoformans,0,Negatives,CAProbPos,Pleural Fluid,BF16
+495,Talaromyces marneffei,0,Negatives,CAProbPos,Pleural Fluid,BF16
+495,Histoplasma capsulatum,0,Negatives,CAProbPos,Pleural Fluid,BF16
+495,Mycobacterium tuberculosis,0,Negatives,CAProbPos,Pleural Fluid,BF16
+542,Aspergillus fumigatus,0,Negatives,CAProbPos,Pleural Fluid,BF17
+542,Aspergillus terreus,0,Negatives,CAProbPos,Pleural Fluid,BF17
+542,Coccidioides immitis,0,Negatives,CAProbPos,Pleural Fluid,BF17
+542,Cryptococcus neoformans,0,Negatives,CAProbPos,Pleural Fluid,BF17
+542,Talaromyces marneffei,0,Negatives,CAProbPos,Pleural Fluid,BF17
+542,Histoplasma capsulatum,0,Negatives,CAProbPos,Pleural Fluid,BF17
+542,Mycobacterium tuberculosis,0,Negatives,CAProbPos,Pleural Fluid,BF17
+616,Aspergillus fumigatus,0,Negatives,CAProbPos,Peritoneal Fluid,BF18
+616,Aspergillus terreus,0,Negatives,CAProbPos,Peritoneal Fluid,BF18
+616,Coccidioides immitis,0,Negatives,CAProbPos,Peritoneal Fluid,BF18
+616,Cryptococcus neoformans,0,Negatives,CAProbPos,Peritoneal Fluid,BF18
+616,Talaromyces marneffei,0,Negatives,CAProbPos,Peritoneal Fluid,BF18
+616,Histoplasma capsulatum,0,Negatives,CAProbPos,Peritoneal Fluid,BF18
+616,Mycobacterium tuberculosis,0,Negatives,CAProbPos,Peritoneal Fluid,BF18
+720,Aspergillus fumigatus,0,Negatives,CAProbPos,Pleural Fluid,BF21
+720,Aspergillus terreus,0,Negatives,CAProbPos,Pleural Fluid,BF21
+720,Coccidioides immitis,0,Negatives,CAProbPos,Pleural Fluid,BF21
+720,Cryptococcus neoformans,0,Negatives,CAProbPos,Pleural Fluid,BF21
+720,Talaromyces marneffei,0,Negatives,CAProbPos,Pleural Fluid,BF21
+720,Histoplasma capsulatum,0,Negatives,CAProbPos,Pleural Fluid,BF21
+720,Mycobacterium tuberculosis,0,Negatives,CAProbPos,Pleural Fluid,BF21
+723,Aspergillus fumigatus,0,Negatives,CAProbPos,Pleural Fluid,BF21
+723,Aspergillus terreus,0,Negatives,CAProbPos,Pleural Fluid,BF21
+723,Coccidioides immitis,0,Negatives,CAProbPos,Pleural Fluid,BF21
+723,Cryptococcus neoformans,0,Negatives,CAProbPos,Pleural Fluid,BF21
+723,Talaromyces marneffei,0,Negatives,CAProbPos,Pleural Fluid,BF21
+723,Histoplasma capsulatum,0,Negatives,CAProbPos,Pleural Fluid,BF21
+723,Mycobacterium tuberculosis,0,Negatives,CAProbPos,Pleural Fluid,BF21
+928,Aspergillus fumigatus,0,Negatives,CAProbPos,Pleural Fluid,BF22
+928,Aspergillus terreus,0,Negatives,CAProbPos,Pleural Fluid,BF22
+928,Coccidioides immitis,0,Negatives,CAProbPos,Pleural Fluid,BF22
+928,Cryptococcus neoformans,0,Negatives,CAProbPos,Pleural Fluid,BF22
+928,Talaromyces marneffei,0,Negatives,CAProbPos,Pleural Fluid,BF22
+928,Histoplasma capsulatum,0,Negatives,CAProbPos,Pleural Fluid,BF22
+928,Mycobacterium tuberculosis,0,Negatives,CAProbPos,Pleural Fluid,BF22
+932,Aspergillus fumigatus,0,Negatives,CAProbPos,Pleural Fluid,BF22
+932,Aspergillus terreus,0,Negatives,CAProbPos,Pleural Fluid,BF22
+932,Coccidioides immitis,0,Negatives,CAProbPos,Pleural Fluid,BF22
+932,Cryptococcus neoformans,0,Negatives,CAProbPos,Pleural Fluid,BF22
+932,Talaromyces marneffei,0,Negatives,CAProbPos,Pleural Fluid,BF22
+932,Histoplasma capsulatum,0,Negatives,CAProbPos,Pleural Fluid,BF22
+932,Mycobacterium tuberculosis,0,Negatives,CAProbPos,Pleural Fluid,BF22
+994,Aspergillus fumigatus,0,Negatives,CAProbPos,Pleural Fluid,BF22
+994,Aspergillus terreus,0,Negatives,CAProbPos,Pleural Fluid,BF22
+994,Coccidioides immitis,0,Negatives,CAProbPos,Pleural Fluid,BF22
+994,Cryptococcus neoformans,0,Negatives,CAProbPos,Pleural Fluid,BF22
+994,Talaromyces marneffei,0,Negatives,CAProbPos,Pleural Fluid,BF22
+994,Histoplasma capsulatum,0,Negatives,CAProbPos,Pleural Fluid,BF22
+994,Mycobacterium tuberculosis,0,Negatives,CAProbPos,Pleural Fluid,BF22
+1034,Aspergillus fumigatus,0,Negatives,CAProbPos,Pleural Fluid,BF22
+1034,Aspergillus terreus,0,Negatives,CAProbPos,Pleural Fluid,BF22
+1034,Coccidioides immitis,0,Negatives,CAProbPos,Pleural Fluid,BF22
+1034,Cryptococcus neoformans,0,Negatives,CAProbPos,Pleural Fluid,BF22
+1034,Talaromyces marneffei,0,Negatives,CAProbPos,Pleural Fluid,BF22
+1034,Histoplasma capsulatum,0,Negatives,CAProbPos,Pleural Fluid,BF22
+1034,Mycobacterium tuberculosis,0,Negatives,CAProbPos,Pleural Fluid,BF22
+1032,Aspergillus fumigatus,0,Negatives,CAProbPos,Peritoneal Fluid,BF22
+1032,Aspergillus terreus,0,Negatives,CAProbPos,Peritoneal Fluid,BF22
+1032,Coccidioides immitis,0,Negatives,CAProbPos,Peritoneal Fluid,BF22
+1032,Cryptococcus neoformans,0,Negatives,CAProbPos,Peritoneal Fluid,BF22
+1032,Talaromyces marneffei,0,Negatives,CAProbPos,Peritoneal Fluid,BF22
+1032,Histoplasma capsulatum,0,Negatives,CAProbPos,Peritoneal Fluid,BF22
+1032,Mycobacterium tuberculosis,0,Negatives,CAProbPos,Peritoneal Fluid,BF22
+1066,Aspergillus fumigatus,0,Negatives,CAProbPos,Peritoneal (wash),BF23
+1066,Aspergillus terreus,0,Negatives,CAProbPos,Peritoneal (wash),BF23
+1066,Coccidioides immitis,0,Negatives,CAProbPos,Peritoneal (wash),BF23
+1066,Cryptococcus neoformans,0,Negatives,CAProbPos,Peritoneal (wash),BF23
+1066,Talaromyces marneffei,0,Negatives,CAProbPos,Peritoneal (wash),BF23
+1066,Histoplasma capsulatum,0,Negatives,CAProbPos,Peritoneal (wash),BF23
+1066,Mycobacterium tuberculosis,0,Negatives,CAProbPos,Peritoneal (wash),BF23
+1099,Aspergillus fumigatus,0,Negatives,CAProbPos,Pleural Fluid,BF23
+1099,Aspergillus terreus,0,Negatives,CAProbPos,Pleural Fluid,BF23
+1099,Coccidioides immitis,0,Negatives,CAProbPos,Pleural Fluid,BF23
+1099,Cryptococcus neoformans,0,Negatives,CAProbPos,Pleural Fluid,BF23
+1099,Talaromyces marneffei,0,Negatives,CAProbPos,Pleural Fluid,BF23
+1099,Histoplasma capsulatum,0,Negatives,CAProbPos,Pleural Fluid,BF23
+1099,Mycobacterium tuberculosis,0,Negatives,CAProbPos,Pleural Fluid,BF23
+1118,Aspergillus fumigatus,0,Negatives,CAProbPos,Pleural Fluid,BF23
+1118,Aspergillus terreus,0,Negatives,CAProbPos,Pleural Fluid,BF23
+1118,Coccidioides immitis,0,Negatives,CAProbPos,Pleural Fluid,BF23
+1118,Cryptococcus neoformans,0,Negatives,CAProbPos,Pleural Fluid,BF23
+1118,Talaromyces marneffei,0,Negatives,CAProbPos,Pleural Fluid,BF23
+1118,Histoplasma capsulatum,0,Negatives,CAProbPos,Pleural Fluid,BF23
+1118,Mycobacterium tuberculosis,0,Negatives,CAProbPos,Pleural Fluid,BF23
+1120,Aspergillus fumigatus,0,Negatives,CAProbPos,Pleural Fluid,BF23
+1120,Aspergillus terreus,0,Negatives,CAProbPos,Pleural Fluid,BF23
+1120,Coccidioides immitis,0,Negatives,CAProbPos,Pleural Fluid,BF23
+1120,Cryptococcus neoformans,0,Negatives,CAProbPos,Pleural Fluid,BF23
+1120,Talaromyces marneffei,0,Negatives,CAProbPos,Pleural Fluid,BF23
+1120,Histoplasma capsulatum,0,Negatives,CAProbPos,Pleural Fluid,BF23
+1120,Mycobacterium tuberculosis,0,Negatives,CAProbPos,Pleural Fluid,BF23
+1123,Aspergillus fumigatus,0,Negatives,CAProbPos,Pleural Fluid,BF23
+1123,Aspergillus terreus,0,Negatives,CAProbPos,Pleural Fluid,BF23
+1123,Coccidioides immitis,0,Negatives,CAProbPos,Pleural Fluid,BF23
+1123,Cryptococcus neoformans,0,Negatives,CAProbPos,Pleural Fluid,BF23
+1123,Talaromyces marneffei,0,Negatives,CAProbPos,Pleural Fluid,BF23
+1123,Histoplasma capsulatum,0,Negatives,CAProbPos,Pleural Fluid,BF23
+1123,Mycobacterium tuberculosis,0,Negatives,CAProbPos,Pleural Fluid,BF23
+1146,Aspergillus fumigatus,0,Negatives,CAProbPos,BAL,BF23
+1146,Aspergillus terreus,0,Negatives,CAProbPos,BAL,BF23
+1146,Coccidioides immitis,0,Negatives,CAProbPos,BAL,BF23
+1146,Cryptococcus neoformans,0,Negatives,CAProbPos,BAL,BF23
+1146,Talaromyces marneffei,0,Negatives,CAProbPos,BAL,BF23
+1146,Histoplasma capsulatum,0,Negatives,CAProbPos,BAL,BF23
+1146,Mycobacterium tuberculosis,0,Negatives,CAProbPos,BAL,BF23
+1147,Aspergillus fumigatus,0,Negatives,CAProbPos,BAL,BF23
+1147,Aspergillus terreus,0,Negatives,CAProbPos,BAL,BF23
+1147,Coccidioides immitis,0,Negatives,CAProbPos,BAL,BF23
+1147,Cryptococcus neoformans,0,Negatives,CAProbPos,BAL,BF23
+1147,Talaromyces marneffei,0,Negatives,CAProbPos,BAL,BF23
+1147,Histoplasma capsulatum,0,Negatives,CAProbPos,BAL,BF23
+1147,Mycobacterium tuberculosis,0,Negatives,CAProbPos,BAL,BF23
+539,Aspergillus fumigatus,0,Negatives,CAProbPos,BAL,BF17
+539,Aspergillus terreus,0,Negatives,CAProbPos,BAL,BF17
+539,Coccidioides immitis,0,Negatives,CAProbPos,BAL,BF17
+539,Cryptococcus neoformans,0,Negatives,CAProbPos,BAL,BF17
+539,Talaromyces marneffei,0,Negatives,CAProbPos,BAL,BF17
+539,Histoplasma capsulatum,0,Negatives,CAProbPos,BAL,BF17
+539,Mycobacterium tuberculosis,0,Negatives,CAProbPos,BAL,BF17
+853,Aspergillus fumigatus,0.2,Negatives,CAProbPos,Peritoneal Fluid,BF22
+853,Aspergillus terreus,0,Negatives,CAProbPos,Peritoneal Fluid,BF22
+853,Coccidioides immitis,0,Negatives,CAProbPos,Peritoneal Fluid,BF22
+853,Cryptococcus neoformans,0,Negatives,CAProbPos,Peritoneal Fluid,BF22
+853,Talaromyces marneffei,0,Negatives,CAProbPos,Peritoneal Fluid,BF22
+853,Histoplasma capsulatum,0,Negatives,CAProbPos,Peritoneal Fluid,BF22
+853,Mycobacterium tuberculosis,0,Negatives,CAProbPos,Peritoneal Fluid,BF22
+221,Aspergillus fumigatus,0,Negatives,CAProbPos,Pericardial Fluid,BF22
+221,Aspergillus terreus,0,Negatives,CAProbPos,Pericardial Fluid,BF22
+221,Coccidioides immitis,0,Negatives,CAProbPos,Pericardial Fluid,BF22
+221,Cryptococcus neoformans,0,Negatives,CAProbPos,Pericardial Fluid,BF22
+221,Talaromyces marneffei,0,Negatives,CAProbPos,Pericardial Fluid,BF22
+221,Histoplasma capsulatum,0,Negatives,CAProbPos,Pericardial Fluid,BF22
+221,Mycobacterium tuberculosis,0,Negatives,CAProbPos,Pericardial Fluid,BF22
+242,Aspergillus fumigatus,0,Negatives,CAProbPos,Pleural Fluid,BF22
+242,Aspergillus terreus,0,Negatives,CAProbPos,Pleural Fluid,BF22
+242,Coccidioides immitis,0,Negatives,CAProbPos,Pleural Fluid,BF22
+242,Cryptococcus neoformans,0,Negatives,CAProbPos,Pleural Fluid,BF22
+242,Talaromyces marneffei,0,Negatives,CAProbPos,Pleural Fluid,BF22
+242,Histoplasma capsulatum,0,Negatives,CAProbPos,Pleural Fluid,BF22
+242,Mycobacterium tuberculosis,0,Negatives,CAProbPos,Pleural Fluid,BF22
+605,Aspergillus fumigatus,0,Negatives,CAProbPos,BAL,BF18
+605,Aspergillus terreus,0,Negatives,CAProbPos,BAL,BF18
+605,Coccidioides immitis,0,Negatives,CAProbPos,BAL,BF18
+605,Cryptococcus neoformans,0,Negatives,CAProbPos,BAL,BF18
+605,Talaromyces marneffei,0,Negatives,CAProbPos,BAL,BF18
+605,Histoplasma capsulatum,0,Negatives,CAProbPos,BAL,BF18
+605,Mycobacterium tuberculosis,0,Negatives,CAProbPos,BAL,BF18
+1152LW5,Aspergillus fumigatus,0,Negatives,CAProbPos,Peritoneal Fluid,BF23
+1152LW5,Aspergillus terreus,0,Negatives,CAProbPos,Peritoneal Fluid,BF23
+1152LW5,Coccidioides immitis,0,Negatives,CAProbPos,Peritoneal Fluid,BF23
+1152LW5,Cryptococcus neoformans,0,Negatives,CAProbPos,Peritoneal Fluid,BF23
+1152LW5,Talaromyces marneffei,0,Negatives,CAProbPos,Peritoneal Fluid,BF23
+1152LW5,Histoplasma capsulatum,0,Negatives,CAProbPos,Peritoneal Fluid,BF23
+1152LW5,Mycobacterium tuberculosis,0,Negatives,CAProbPos,Peritoneal Fluid,BF23
+1158LW14,Aspergillus fumigatus,0,Negatives,CAProbPos,Peritoneal Fluid,BF23
+1158LW14,Aspergillus terreus,0,Negatives,CAProbPos,Peritoneal Fluid,BF23
+1158LW14,Coccidioides immitis,0,Negatives,CAProbPos,Peritoneal Fluid,BF23
+1158LW14,Cryptococcus neoformans,0,Negatives,CAProbPos,Peritoneal Fluid,BF23
+1158LW14,Talaromyces marneffei,0,Negatives,CAProbPos,Peritoneal Fluid,BF23
+1158LW14,Histoplasma capsulatum,0,Negatives,CAProbPos,Peritoneal Fluid,BF23
+1158LW14,Mycobacterium tuberculosis,0,Negatives,CAProbPos,Peritoneal Fluid,BF23
+1164LW20,Aspergillus fumigatus,0,Negatives,CAProbPos,Pleural Fluid,BF23
+1164LW20,Aspergillus terreus,0,Negatives,CAProbPos,Pleural Fluid,BF23
+1164LW20,Coccidioides immitis,0,Negatives,CAProbPos,Pleural Fluid,BF23
+1164LW20,Cryptococcus neoformans,0,Negatives,CAProbPos,Pleural Fluid,BF23
+1164LW20,Talaromyces marneffei,0,Negatives,CAProbPos,Pleural Fluid,BF23
+1164LW20,Histoplasma capsulatum,0,Negatives,CAProbPos,Pleural Fluid,BF23
+1164LW20,Mycobacterium tuberculosis,0,Negatives,CAProbPos,Pleural Fluid,BF23
+1165LW21,Aspergillus fumigatus,0,Negatives,CAProbPos,Peritoneal Fluid,BF23
+1165LW21,Aspergillus terreus,0,Negatives,CAProbPos,Peritoneal Fluid,BF23
+1165LW21,Coccidioides immitis,0,Negatives,CAProbPos,Peritoneal Fluid,BF23
+1165LW21,Cryptococcus neoformans,0,Negatives,CAProbPos,Peritoneal Fluid,BF23
+1165LW21,Talaromyces marneffei,0,Negatives,CAProbPos,Peritoneal Fluid,BF23
+1165LW21,Histoplasma capsulatum,0,Negatives,CAProbPos,Peritoneal Fluid,BF23
+1165LW21,Mycobacterium tuberculosis,0,Negatives,CAProbPos,Peritoneal Fluid,BF23
+124,Aspergillus fumigatus,0,Negatives,MicroPos,BAL,BF3
+124,Aspergillus terreus,0,Negatives,MicroPos,BAL,BF3
+124,Coccidioides immitis,0,Negatives,MicroPos,BAL,BF3
+124,Cryptococcus neoformans,0,Negatives,MicroPos,BAL,BF3
+124,Talaromyces marneffei,0,Negatives,MicroPos,BAL,BF3
+124,Histoplasma capsulatum,0,Negatives,MicroPos,BAL,BF3
+124,Mycobacterium tuberculosis,0,Negatives,MicroPos,BAL,BF3
+126,Aspergillus fumigatus,0,Negatives,MicroPos,Pleural Fluid,BF3
+126,Aspergillus terreus,0,Negatives,MicroPos,Pleural Fluid,BF3
+126,Coccidioides immitis,0,Negatives,MicroPos,Pleural Fluid,BF3
+126,Cryptococcus neoformans,0,Negatives,MicroPos,Pleural Fluid,BF3
+126,Talaromyces marneffei,0,Negatives,MicroPos,Pleural Fluid,BF3
+126,Histoplasma capsulatum,0,Negatives,MicroPos,Pleural Fluid,BF3
+126,Mycobacterium tuberculosis,0,Negatives,MicroPos,Pleural Fluid,BF3
+140,Aspergillus fumigatus,0,Negatives,MicroPos,BAL,BF3
+140,Aspergillus terreus,0,Negatives,MicroPos,BAL,BF3
+140,Coccidioides immitis,0,Negatives,MicroPos,BAL,BF3
+140,Cryptococcus neoformans,0,Negatives,MicroPos,BAL,BF3
+140,Talaromyces marneffei,0,Negatives,MicroPos,BAL,BF3
+140,Histoplasma capsulatum,0,Negatives,MicroPos,BAL,BF3
+140,Mycobacterium tuberculosis,0,Negatives,MicroPos,BAL,BF3
+150,Aspergillus fumigatus,0,Negatives,MicroPos,Pleural Fluid,BF3
+150,Aspergillus terreus,0,Negatives,MicroPos,Pleural Fluid,BF3
+150,Coccidioides immitis,0,Negatives,MicroPos,Pleural Fluid,BF3
+150,Cryptococcus neoformans,0,Negatives,MicroPos,Pleural Fluid,BF3
+150,Talaromyces marneffei,0,Negatives,MicroPos,Pleural Fluid,BF3
+150,Histoplasma capsulatum,0,Negatives,MicroPos,Pleural Fluid,BF3
+150,Mycobacterium tuberculosis,0,Negatives,MicroPos,Pleural Fluid,BF3
+160,Aspergillus fumigatus,0,Negatives,MicroPos,BAL,BF3
+160,Aspergillus terreus,0,Negatives,MicroPos,BAL,BF3
+160,Coccidioides immitis,0,Negatives,MicroPos,BAL,BF3
+160,Cryptococcus neoformans,0,Negatives,MicroPos,BAL,BF3
+160,Talaromyces marneffei,0,Negatives,MicroPos,BAL,BF3
+160,Histoplasma capsulatum,0,Negatives,MicroPos,BAL,BF3
+160,Mycobacterium tuberculosis,0,Negatives,MicroPos,BAL,BF3
+162,Aspergillus fumigatus,0,Negatives,MicroPos,Pleural Fluid,BF3
+162,Aspergillus terreus,0,Negatives,MicroPos,Pleural Fluid,BF3
+162,Coccidioides immitis,0,Negatives,MicroPos,Pleural Fluid,BF3
+162,Cryptococcus neoformans,0,Negatives,MicroPos,Pleural Fluid,BF3
+162,Talaromyces marneffei,0,Negatives,MicroPos,Pleural Fluid,BF3
+162,Histoplasma capsulatum,0,Negatives,MicroPos,Pleural Fluid,BF3
+162,Mycobacterium tuberculosis,0,Negatives,MicroPos,Pleural Fluid,BF3
+163,Aspergillus fumigatus,0,Negatives,MicroPos,Pleural Fluid,BF3
+163,Aspergillus terreus,0,Negatives,MicroPos,Pleural Fluid,BF3
+163,Coccidioides immitis,0,Negatives,MicroPos,Pleural Fluid,BF3
+163,Cryptococcus neoformans,0,Negatives,MicroPos,Pleural Fluid,BF3
+163,Talaromyces marneffei,0,Negatives,MicroPos,Pleural Fluid,BF3
+163,Histoplasma capsulatum,0,Negatives,MicroPos,Pleural Fluid,BF3
+163,Mycobacterium tuberculosis,0,Negatives,MicroPos,Pleural Fluid,BF3
+169,Aspergillus fumigatus,0,Negatives,MicroPos,BAL,BF4; BF22
+169,Aspergillus terreus,0,Negatives,MicroPos,BAL,BF4; BF22
+169,Coccidioides immitis,0,Negatives,MicroPos,BAL,BF4; BF22
+169,Cryptococcus neoformans,0,Negatives,MicroPos,BAL,BF4; BF22
+169,Talaromyces marneffei,0,Negatives,MicroPos,BAL,BF4; BF22
+169,Histoplasma capsulatum,0,Negatives,MicroPos,BAL,BF4; BF22
+169,Mycobacterium tuberculosis,0,Negatives,MicroPos,BAL,BF4; BF22
+171,Aspergillus fumigatus,0,Negatives,MicroPos,BAL,BF3
+171,Aspergillus terreus,0,Negatives,MicroPos,BAL,BF3
+171,Coccidioides immitis,0,Negatives,MicroPos,BAL,BF3
+171,Cryptococcus neoformans,0,Negatives,MicroPos,BAL,BF3
+171,Talaromyces marneffei,0,Negatives,MicroPos,BAL,BF3
+171,Histoplasma capsulatum,0,Negatives,MicroPos,BAL,BF3
+171,Mycobacterium tuberculosis,0,Negatives,MicroPos,BAL,BF3
+173,Aspergillus fumigatus,0,Negatives,MicroPos,BAL,BF3
+173,Aspergillus terreus,0,Negatives,MicroPos,BAL,BF3
+173,Coccidioides immitis,0,Negatives,MicroPos,BAL,BF3
+173,Cryptococcus neoformans,0,Negatives,MicroPos,BAL,BF3
+173,Talaromyces marneffei,0,Negatives,MicroPos,BAL,BF3
+173,Histoplasma capsulatum,0,Negatives,MicroPos,BAL,BF3
+173,Mycobacterium tuberculosis,0,Negatives,MicroPos,BAL,BF3
+321,Aspergillus fumigatus,0,Negatives,MicroPos,BAL,BF16
+321,Aspergillus terreus,0,Negatives,MicroPos,BAL,BF16
+321,Coccidioides immitis,0,Negatives,MicroPos,BAL,BF16
+321,Cryptococcus neoformans,0,Negatives,MicroPos,BAL,BF16
+321,Talaromyces marneffei,0,Negatives,MicroPos,BAL,BF16
+321,Histoplasma capsulatum,0,Negatives,MicroPos,BAL,BF16
+321,Mycobacterium tuberculosis,0,Negatives,MicroPos,BAL,BF16
+298,Aspergillus fumigatus,0,Negatives,MicroPos,BAL,BF12miseq
+298,Aspergillus terreus,0,Negatives,MicroPos,BAL,BF12miseq
+298,Coccidioides immitis,0,Negatives,MicroPos,BAL,BF12miseq
+298,Cryptococcus neoformans,0,Negatives,MicroPos,BAL,BF12miseq
+298,Talaromyces marneffei,0,Negatives,MicroPos,BAL,BF12miseq
+298,Histoplasma capsulatum,0,Negatives,MicroPos,BAL,BF12miseq
+298,Mycobacterium tuberculosis,0,Negatives,MicroPos,BAL,BF12miseq
+211,Aspergillus fumigatus,0,Negatives,MicroPos,BAL,BF16
+211,Aspergillus terreus,0,Negatives,MicroPos,BAL,BF16
+211,Coccidioides immitis,0,Negatives,MicroPos,BAL,BF16
+211,Cryptococcus neoformans,0,Negatives,MicroPos,BAL,BF16
+211,Talaromyces marneffei,0,Negatives,MicroPos,BAL,BF16
+211,Histoplasma capsulatum,0,Negatives,MicroPos,BAL,BF16
+211,Mycobacterium tuberculosis,0,Negatives,MicroPos,BAL,BF16
+222,Aspergillus fumigatus,0,Negatives,MicroPos,BAL,BF12miseq
+222,Aspergillus terreus,0,Negatives,MicroPos,BAL,BF12miseq
+222,Coccidioides immitis,0,Negatives,MicroPos,BAL,BF12miseq
+222,Cryptococcus neoformans,0,Negatives,MicroPos,BAL,BF12miseq
+222,Talaromyces marneffei,0,Negatives,MicroPos,BAL,BF12miseq
+222,Histoplasma capsulatum,0,Negatives,MicroPos,BAL,BF12miseq
+222,Mycobacterium tuberculosis,0,Negatives,MicroPos,BAL,BF12miseq
+249,Aspergillus fumigatus,0,Negatives,MicroPos,Bronchial Wash,BF16
+249,Aspergillus terreus,0,Negatives,MicroPos,Bronchial Wash,BF16
+249,Coccidioides immitis,0,Negatives,MicroPos,Bronchial Wash,BF16
+249,Cryptococcus neoformans,0,Negatives,MicroPos,Bronchial Wash,BF16
+249,Talaromyces marneffei,0,Negatives,MicroPos,Bronchial Wash,BF16
+249,Histoplasma capsulatum,0,Negatives,MicroPos,Bronchial Wash,BF16
+249,Mycobacterium tuberculosis,0,Negatives,MicroPos,Bronchial Wash,BF16
+300,Aspergillus fumigatus,0,Negatives,MicroPos,BAL,BF12miseq
+300,Aspergillus terreus,0,Negatives,MicroPos,BAL,BF12miseq
+300,Coccidioides immitis,0,Negatives,MicroPos,BAL,BF12miseq
+300,Cryptococcus neoformans,0,Negatives,MicroPos,BAL,BF12miseq
+300,Talaromyces marneffei,0,Negatives,MicroPos,BAL,BF12miseq
+300,Histoplasma capsulatum,0,Negatives,MicroPos,BAL,BF12miseq
+300,Mycobacterium tuberculosis,0,Negatives,MicroPos,BAL,BF12miseq
+149,Aspergillus fumigatus,0,Negatives,MicroPos,Pleural Fluid,BF15
+149,Aspergillus terreus,0,Negatives,MicroPos,Pleural Fluid,BF15
+149,Coccidioides immitis,0,Negatives,MicroPos,Pleural Fluid,BF15
+149,Cryptococcus neoformans,0,Negatives,MicroPos,Pleural Fluid,BF15
+149,Talaromyces marneffei,0,Negatives,MicroPos,Pleural Fluid,BF15
+149,Histoplasma capsulatum,0,Negatives,MicroPos,Pleural Fluid,BF15
+149,Mycobacterium tuberculosis,0,Negatives,MicroPos,Pleural Fluid,BF15
+185,Aspergillus fumigatus,0,Negatives,MicroPos,Pleural Fluid,BF15
+185,Aspergillus terreus,0,Negatives,MicroPos,Pleural Fluid,BF15
+185,Coccidioides immitis,0,Negatives,MicroPos,Pleural Fluid,BF15
+185,Cryptococcus neoformans,0,Negatives,MicroPos,Pleural Fluid,BF15
+185,Talaromyces marneffei,0,Negatives,MicroPos,Pleural Fluid,BF15
+185,Histoplasma capsulatum,0,Negatives,MicroPos,Pleural Fluid,BF15
+185,Mycobacterium tuberculosis,0,Negatives,MicroPos,Pleural Fluid,BF15
+198,Aspergillus fumigatus,0,Negatives,MicroPos,Pleural Fluid,BF15
+198,Aspergillus terreus,0,Negatives,MicroPos,Pleural Fluid,BF15
+198,Coccidioides immitis,0,Negatives,MicroPos,Pleural Fluid,BF15
+198,Cryptococcus neoformans,0,Negatives,MicroPos,Pleural Fluid,BF15
+198,Talaromyces marneffei,0,Negatives,MicroPos,Pleural Fluid,BF15
+198,Histoplasma capsulatum,0,Negatives,MicroPos,Pleural Fluid,BF15
+198,Mycobacterium tuberculosis,0,Negatives,MicroPos,Pleural Fluid,BF15
+260,Aspergillus fumigatus,0,Negatives,MicroPos,Pleural Fluid,BF15
+260,Aspergillus terreus,0,Negatives,MicroPos,Pleural Fluid,BF15
+260,Coccidioides immitis,0,Negatives,MicroPos,Pleural Fluid,BF15
+260,Cryptococcus neoformans,0,Negatives,MicroPos,Pleural Fluid,BF15
+260,Talaromyces marneffei,0,Negatives,MicroPos,Pleural Fluid,BF15
+260,Histoplasma capsulatum,0,Negatives,MicroPos,Pleural Fluid,BF15
+260,Mycobacterium tuberculosis,0,Negatives,MicroPos,Pleural Fluid,BF15
+371,Aspergillus fumigatus,0,Negatives,MicroPos,Pleural Fluid,BF15
+371,Aspergillus terreus,0,Negatives,MicroPos,Pleural Fluid,BF15
+371,Coccidioides immitis,0,Negatives,MicroPos,Pleural Fluid,BF15
+371,Cryptococcus neoformans,0,Negatives,MicroPos,Pleural Fluid,BF15
+371,Talaromyces marneffei,0,Negatives,MicroPos,Pleural Fluid,BF15
+371,Histoplasma capsulatum,0,Negatives,MicroPos,Pleural Fluid,BF15
+371,Mycobacterium tuberculosis,0,Negatives,MicroPos,Pleural Fluid,BF15
+386,Aspergillus fumigatus,0,Negatives,MicroPos,Pleural Fluid,BF15
+386,Aspergillus terreus,0,Negatives,MicroPos,Pleural Fluid,BF15
+386,Coccidioides immitis,0,Negatives,MicroPos,Pleural Fluid,BF15
+386,Cryptococcus neoformans,0,Negatives,MicroPos,Pleural Fluid,BF15
+386,Talaromyces marneffei,0,Negatives,MicroPos,Pleural Fluid,BF15
+386,Histoplasma capsulatum,0,Negatives,MicroPos,Pleural Fluid,BF15
+386,Mycobacterium tuberculosis,0,Negatives,MicroPos,Pleural Fluid,BF15
+345,Aspergillus fumigatus,0,Negatives,MicroPos,BAL,BF15
+345,Aspergillus terreus,0,Negatives,MicroPos,BAL,BF15
+345,Coccidioides immitis,0,Negatives,MicroPos,BAL,BF15
+345,Cryptococcus neoformans,0,Negatives,MicroPos,BAL,BF15
+345,Talaromyces marneffei,0,Negatives,MicroPos,BAL,BF15
+345,Histoplasma capsulatum,0,Negatives,MicroPos,BAL,BF15
+345,Mycobacterium tuberculosis,0,Negatives,MicroPos,BAL,BF15
+480,Aspergillus fumigatus,0,Negatives,MicroPos,Pleural Fluid,BF15_part2
+480,Aspergillus terreus,0,Negatives,MicroPos,Pleural Fluid,BF15_part2
+480,Coccidioides immitis,0,Negatives,MicroPos,Pleural Fluid,BF15_part2
+480,Cryptococcus neoformans,0,Negatives,MicroPos,Pleural Fluid,BF15_part2
+480,Talaromyces marneffei,0,Negatives,MicroPos,Pleural Fluid,BF15_part2
+480,Histoplasma capsulatum,0,Negatives,MicroPos,Pleural Fluid,BF15_part2
+480,Mycobacterium tuberculosis,0,Negatives,MicroPos,Pleural Fluid,BF15_part2
+482,Aspergillus fumigatus,0,Negatives,MicroPos,Pleural Fluid,BF15_part2
+482,Aspergillus terreus,0,Negatives,MicroPos,Pleural Fluid,BF15_part2
+482,Coccidioides immitis,0,Negatives,MicroPos,Pleural Fluid,BF15_part2
+482,Cryptococcus neoformans,0,Negatives,MicroPos,Pleural Fluid,BF15_part2
+482,Talaromyces marneffei,0,Negatives,MicroPos,Pleural Fluid,BF15_part2
+482,Histoplasma capsulatum,0,Negatives,MicroPos,Pleural Fluid,BF15_part2
+482,Mycobacterium tuberculosis,0,Negatives,MicroPos,Pleural Fluid,BF15_part2
+497,Aspergillus fumigatus,0,Negatives,MicroPos,Pleural Fluid,BF16
+497,Aspergillus terreus,0,Negatives,MicroPos,Pleural Fluid,BF16
+497,Coccidioides immitis,0,Negatives,MicroPos,Pleural Fluid,BF16
+497,Cryptococcus neoformans,0,Negatives,MicroPos,Pleural Fluid,BF16
+497,Talaromyces marneffei,0,Negatives,MicroPos,Pleural Fluid,BF16
+497,Histoplasma capsulatum,0,Negatives,MicroPos,Pleural Fluid,BF16
+497,Mycobacterium tuberculosis,0,Negatives,MicroPos,Pleural Fluid,BF16
+686,Aspergillus fumigatus,0,Negatives,mystery -> MicroPos,Pleural Fluid,BF21ab
+686,Aspergillus terreus,0,Negatives,mystery -> MicroPos,Pleural Fluid,BF21ab
+686,Coccidioides immitis,0,Negatives,mystery -> MicroPos,Pleural Fluid,BF21ab
+686,Cryptococcus neoformans,0,Negatives,mystery -> MicroPos,Pleural Fluid,BF21ab
+686,Talaromyces marneffei,0,Negatives,mystery -> MicroPos,Pleural Fluid,BF21ab
+686,Histoplasma capsulatum,0,Negatives,mystery -> MicroPos,Pleural Fluid,BF21ab
+686,Mycobacterium tuberculosis,0,Negatives,mystery -> MicroPos,Pleural Fluid,BF21ab
+316,Aspergillus fumigatus,0,Negatives,MicroPos,Pleural Fluid,BF20dBF21bc part 1
+316,Aspergillus terreus,0,Negatives,MicroPos,Pleural Fluid,BF20dBF21bc part 1
+316,Coccidioides immitis,0,Negatives,MicroPos,Pleural Fluid,BF20dBF21bc part 1
+316,Cryptococcus neoformans,0,Negatives,MicroPos,Pleural Fluid,BF20dBF21bc part 1
+316,Talaromyces marneffei,0,Negatives,MicroPos,Pleural Fluid,BF20dBF21bc part 1
+316,Histoplasma capsulatum,0,Negatives,MicroPos,Pleural Fluid,BF20dBF21bc part 1
+316,Mycobacterium tuberculosis,0,Negatives,MicroPos,Pleural Fluid,BF20dBF21bc part 1
+322,Aspergillus fumigatus,0,Negatives,MicroPos,Pleural Fluid,BF20dBF21bc part 1
+322,Aspergillus terreus,0,Negatives,MicroPos,Pleural Fluid,BF20dBF21bc part 1
+322,Coccidioides immitis,0,Negatives,MicroPos,Pleural Fluid,BF20dBF21bc part 1
+322,Cryptococcus neoformans,0,Negatives,MicroPos,Pleural Fluid,BF20dBF21bc part 1
+322,Talaromyces marneffei,0,Negatives,MicroPos,Pleural Fluid,BF20dBF21bc part 1
+322,Histoplasma capsulatum,0,Negatives,MicroPos,Pleural Fluid,BF20dBF21bc part 1
+322,Mycobacterium tuberculosis,0,Negatives,MicroPos,Pleural Fluid,BF20dBF21bc part 1
+447,Aspergillus fumigatus,0,Negatives,MicroPos,BAL,BF20dBF21bc part 1
+447,Aspergillus terreus,0,Negatives,MicroPos,BAL,BF20dBF21bc part 1
+447,Coccidioides immitis,0,Negatives,MicroPos,BAL,BF20dBF21bc part 1
+447,Cryptococcus neoformans,0,Negatives,MicroPos,BAL,BF20dBF21bc part 1
+447,Talaromyces marneffei,0,Negatives,MicroPos,BAL,BF20dBF21bc part 1
+447,Histoplasma capsulatum,0,Negatives,MicroPos,BAL,BF20dBF21bc part 1
+447,Mycobacterium tuberculosis,0,Negatives,MicroPos,BAL,BF20dBF21bc part 1
+498,Aspergillus fumigatus,0,Negatives,MicroPos,Pleural Fluid,BF20dBF21bc part 2
+498,Aspergillus terreus,0,Negatives,MicroPos,Pleural Fluid,BF20dBF21bc part 2
+498,Coccidioides immitis,0,Negatives,MicroPos,Pleural Fluid,BF20dBF21bc part 2
+498,Cryptococcus neoformans,0,Negatives,MicroPos,Pleural Fluid,BF20dBF21bc part 2
+498,Talaromyces marneffei,0,Negatives,MicroPos,Pleural Fluid,BF20dBF21bc part 2
+498,Histoplasma capsulatum,0,Negatives,MicroPos,Pleural Fluid,BF20dBF21bc part 2
+498,Mycobacterium tuberculosis,0,Negatives,MicroPos,Pleural Fluid,BF20dBF21bc part 2
+104,Aspergillus fumigatus,0,Negatives,MicroPos,Peritoneal Fluid,BF3-plasma 08092017
+104,Aspergillus terreus,0,Negatives,MicroPos,Peritoneal Fluid,BF3-plasma 08092017
+104,Coccidioides immitis,0,Negatives,MicroPos,Peritoneal Fluid,BF3-plasma 08092017
+104,Cryptococcus neoformans,0,Negatives,MicroPos,Peritoneal Fluid,BF3-plasma 08092017
+104,Talaromyces marneffei,0,Negatives,MicroPos,Peritoneal Fluid,BF3-plasma 08092017
+104,Histoplasma capsulatum,0,Negatives,MicroPos,Peritoneal Fluid,BF3-plasma 08092017
+104,Mycobacterium tuberculosis,0,Negatives,MicroPos,Peritoneal Fluid,BF3-plasma 08092017
+110,Aspergillus fumigatus,0,Negatives,MicroPos,Peritoneal Fluid,BF3-plasma 08092017
+110,Aspergillus terreus,0,Negatives,MicroPos,Peritoneal Fluid,BF3-plasma 08092017
+110,Coccidioides immitis,0,Negatives,MicroPos,Peritoneal Fluid,BF3-plasma 08092017
+110,Cryptococcus neoformans,0,Negatives,MicroPos,Peritoneal Fluid,BF3-plasma 08092017
+110,Talaromyces marneffei,0,Negatives,MicroPos,Peritoneal Fluid,BF3-plasma 08092017
+110,Histoplasma capsulatum,0,Negatives,MicroPos,Peritoneal Fluid,BF3-plasma 08092017
+110,Mycobacterium tuberculosis,0,Negatives,MicroPos,Peritoneal Fluid,BF3-plasma 08092017
+136,Aspergillus fumigatus,0,Negatives,MicroPos,Peritoneal Fluid,BF3-plasma 08092017
+136,Aspergillus terreus,0,Negatives,MicroPos,Peritoneal Fluid,BF3-plasma 08092017
+136,Coccidioides immitis,0,Negatives,MicroPos,Peritoneal Fluid,BF3-plasma 08092017
+136,Cryptococcus neoformans,0,Negatives,MicroPos,Peritoneal Fluid,BF3-plasma 08092017
+136,Talaromyces marneffei,0,Negatives,MicroPos,Peritoneal Fluid,BF3-plasma 08092017
+136,Histoplasma capsulatum,0,Negatives,MicroPos,Peritoneal Fluid,BF3-plasma 08092017
+136,Mycobacterium tuberculosis,0,Negatives,MicroPos,Peritoneal Fluid,BF3-plasma 08092017
+340,Aspergillus fumigatus,0,Negatives,MicroPos,Peritoneal Fluid,BF15
+340,Aspergillus terreus,0,Negatives,MicroPos,Peritoneal Fluid,BF15
+340,Coccidioides immitis,0,Negatives,MicroPos,Peritoneal Fluid,BF15
+340,Cryptococcus neoformans,0,Negatives,MicroPos,Peritoneal Fluid,BF15
+340,Talaromyces marneffei,0,Negatives,MicroPos,Peritoneal Fluid,BF15
+340,Histoplasma capsulatum,0,Negatives,MicroPos,Peritoneal Fluid,BF15
+340,Mycobacterium tuberculosis,0,Negatives,MicroPos,Peritoneal Fluid,BF15
+364,Aspergillus fumigatus,0,Negatives,MicroPos,Peritoneal Fluid,BF15
+364,Aspergillus terreus,0,Negatives,MicroPos,Peritoneal Fluid,BF15
+364,Coccidioides immitis,0,Negatives,MicroPos,Peritoneal Fluid,BF15
+364,Cryptococcus neoformans,0,Negatives,MicroPos,Peritoneal Fluid,BF15
+364,Talaromyces marneffei,0,Negatives,MicroPos,Peritoneal Fluid,BF15
+364,Histoplasma capsulatum,0,Negatives,MicroPos,Peritoneal Fluid,BF15
+364,Mycobacterium tuberculosis,0,Negatives,MicroPos,Peritoneal Fluid,BF15
+367,Aspergillus fumigatus,0,Negatives,MicroPos,Peritoneal Fluid,BF15
+367,Aspergillus terreus,0,Negatives,MicroPos,Peritoneal Fluid,BF15
+367,Coccidioides immitis,0,Negatives,MicroPos,Peritoneal Fluid,BF15
+367,Cryptococcus neoformans,0,Negatives,MicroPos,Peritoneal Fluid,BF15
+367,Talaromyces marneffei,0,Negatives,MicroPos,Peritoneal Fluid,BF15
+367,Histoplasma capsulatum,0,Negatives,MicroPos,Peritoneal Fluid,BF15
+367,Mycobacterium tuberculosis,0,Negatives,MicroPos,Peritoneal Fluid,BF15
+384,Aspergillus fumigatus,0,Negatives,MicroPos,Peritoneal Fluid,BF15
+384,Aspergillus terreus,0,Negatives,MicroPos,Peritoneal Fluid,BF15
+384,Coccidioides immitis,0,Negatives,MicroPos,Peritoneal Fluid,BF15
+384,Cryptococcus neoformans,0,Negatives,MicroPos,Peritoneal Fluid,BF15
+384,Talaromyces marneffei,0,Negatives,MicroPos,Peritoneal Fluid,BF15
+384,Histoplasma capsulatum,0,Negatives,MicroPos,Peritoneal Fluid,BF15
+384,Mycobacterium tuberculosis,0,Negatives,MicroPos,Peritoneal Fluid,BF15
+422,Aspergillus fumigatus,0,Negatives,MicroPos,Peritoneal Fluid,BF15
+422,Aspergillus terreus,0,Negatives,MicroPos,Peritoneal Fluid,BF15
+422,Coccidioides immitis,0,Negatives,MicroPos,Peritoneal Fluid,BF15
+422,Cryptococcus neoformans,0,Negatives,MicroPos,Peritoneal Fluid,BF15
+422,Talaromyces marneffei,0,Negatives,MicroPos,Peritoneal Fluid,BF15
+422,Histoplasma capsulatum,0,Negatives,MicroPos,Peritoneal Fluid,BF15
+422,Mycobacterium tuberculosis,0,Negatives,MicroPos,Peritoneal Fluid,BF15
+435,Aspergillus fumigatus,0,Negatives,MicroPos,Peritoneal Fluid,BF15
+435,Aspergillus terreus,0,Negatives,MicroPos,Peritoneal Fluid,BF15
+435,Coccidioides immitis,0,Negatives,MicroPos,Peritoneal Fluid,BF15
+435,Cryptococcus neoformans,0,Negatives,MicroPos,Peritoneal Fluid,BF15
+435,Talaromyces marneffei,0,Negatives,MicroPos,Peritoneal Fluid,BF15
+435,Histoplasma capsulatum,0,Negatives,MicroPos,Peritoneal Fluid,BF15
+435,Mycobacterium tuberculosis,0,Negatives,MicroPos,Peritoneal Fluid,BF15
+436,Aspergillus fumigatus,0,Negatives,MicroPos,Peritoneal Fluid,BF15
+436,Aspergillus terreus,0,Negatives,MicroPos,Peritoneal Fluid,BF15
+436,Coccidioides immitis,0,Negatives,MicroPos,Peritoneal Fluid,BF15
+436,Cryptococcus neoformans,0,Negatives,MicroPos,Peritoneal Fluid,BF15
+436,Talaromyces marneffei,0,Negatives,MicroPos,Peritoneal Fluid,BF15
+436,Histoplasma capsulatum,0,Negatives,MicroPos,Peritoneal Fluid,BF15
+436,Mycobacterium tuberculosis,0,Negatives,MicroPos,Peritoneal Fluid,BF15
+526,Aspergillus fumigatus,0,Negatives,mystery -> MicroPos,Peritoneal Fluid,BF17hiseq
+526,Aspergillus terreus,0,Negatives,mystery -> MicroPos,Peritoneal Fluid,BF17hiseq
+526,Coccidioides immitis,0,Negatives,mystery -> MicroPos,Peritoneal Fluid,BF17hiseq
+526,Cryptococcus neoformans,0,Negatives,mystery -> MicroPos,Peritoneal Fluid,BF17hiseq
+526,Talaromyces marneffei,0,Negatives,mystery -> MicroPos,Peritoneal Fluid,BF17hiseq
+526,Histoplasma capsulatum,0,Negatives,mystery -> MicroPos,Peritoneal Fluid,BF17hiseq
+526,Mycobacterium tuberculosis,0,Negatives,mystery -> MicroPos,Peritoneal Fluid,BF17hiseq
+506,Aspergillus fumigatus,0,Negatives,MicroPos,Peritoneal Fluid,BF19hiseq
+506,Aspergillus terreus,0,Negatives,MicroPos,Peritoneal Fluid,BF19hiseq
+506,Coccidioides immitis,0,Negatives,MicroPos,Peritoneal Fluid,BF19hiseq
+506,Cryptococcus neoformans,0,Negatives,MicroPos,Peritoneal Fluid,BF19hiseq
+506,Talaromyces marneffei,0,Negatives,MicroPos,Peritoneal Fluid,BF19hiseq
+506,Histoplasma capsulatum,0,Negatives,MicroPos,Peritoneal Fluid,BF19hiseq
+506,Mycobacterium tuberculosis,0,Negatives,MicroPos,Peritoneal Fluid,BF19hiseq
+508,Aspergillus fumigatus,0,Negatives,MicroPos,Peritoneal Fluid,BF19hiseq
+508,Aspergillus terreus,0,Negatives,MicroPos,Peritoneal Fluid,BF19hiseq
+508,Coccidioides immitis,0,Negatives,MicroPos,Peritoneal Fluid,BF19hiseq
+508,Cryptococcus neoformans,0,Negatives,MicroPos,Peritoneal Fluid,BF19hiseq
+508,Talaromyces marneffei,0,Negatives,MicroPos,Peritoneal Fluid,BF19hiseq
+508,Histoplasma capsulatum,0,Negatives,MicroPos,Peritoneal Fluid,BF19hiseq
+508,Mycobacterium tuberculosis,0,Negatives,MicroPos,Peritoneal Fluid,BF19hiseq
+780,Aspergillus fumigatus,0,Negatives,MicroPos,Peritoneal Fluid,BF21ab
+780,Aspergillus terreus,0,Negatives,MicroPos,Peritoneal Fluid,BF21ab
+780,Coccidioides immitis,0,Negatives,MicroPos,Peritoneal Fluid,BF21ab
+780,Cryptococcus neoformans,0,Negatives,MicroPos,Peritoneal Fluid,BF21ab
+780,Talaromyces marneffei,0,Negatives,MicroPos,Peritoneal Fluid,BF21ab
+780,Histoplasma capsulatum,0,Negatives,MicroPos,Peritoneal Fluid,BF21ab
+780,Mycobacterium tuberculosis,0,Negatives,MicroPos,Peritoneal Fluid,BF21ab
+334,Aspergillus fumigatus,0,Negatives,MicroPos,Peritoneal Fluid,BF20dBF21bc part 1
+334,Aspergillus terreus,0,Negatives,MicroPos,Peritoneal Fluid,BF20dBF21bc part 1
+334,Coccidioides immitis,0,Negatives,MicroPos,Peritoneal Fluid,BF20dBF21bc part 1
+334,Cryptococcus neoformans,0,Negatives,MicroPos,Peritoneal Fluid,BF20dBF21bc part 1
+334,Talaromyces marneffei,0,Negatives,MicroPos,Peritoneal Fluid,BF20dBF21bc part 1
+334,Histoplasma capsulatum,0,Negatives,MicroPos,Peritoneal Fluid,BF20dBF21bc part 1
+334,Mycobacterium tuberculosis,0,Negatives,MicroPos,Peritoneal Fluid,BF20dBF21bc part 1
+378,Aspergillus fumigatus,0,Negatives,MicroPos,Peritoneal Fluid,BF20dBF21bc part 1
+378,Aspergillus terreus,0,Negatives,MicroPos,Peritoneal Fluid,BF20dBF21bc part 1
+378,Coccidioides immitis,0,Negatives,MicroPos,Peritoneal Fluid,BF20dBF21bc part 1
+378,Cryptococcus neoformans,0,Negatives,MicroPos,Peritoneal Fluid,BF20dBF21bc part 1
+378,Talaromyces marneffei,0,Negatives,MicroPos,Peritoneal Fluid,BF20dBF21bc part 1
+378,Histoplasma capsulatum,0,Negatives,MicroPos,Peritoneal Fluid,BF20dBF21bc part 1
+378,Mycobacterium tuberculosis,0,Negatives,MicroPos,Peritoneal Fluid,BF20dBF21bc part 1
+467,Aspergillus fumigatus,0,Negatives,MicroPos,Peritoneal Fluid,BF20dBF21bc part 2
+467,Aspergillus terreus,0,Negatives,MicroPos,Peritoneal Fluid,BF20dBF21bc part 2
+467,Coccidioides immitis,0,Negatives,MicroPos,Peritoneal Fluid,BF20dBF21bc part 2
+467,Cryptococcus neoformans,0,Negatives,MicroPos,Peritoneal Fluid,BF20dBF21bc part 2
+467,Talaromyces marneffei,0,Negatives,MicroPos,Peritoneal Fluid,BF20dBF21bc part 2
+467,Histoplasma capsulatum,0,Negatives,MicroPos,Peritoneal Fluid,BF20dBF21bc part 2
+467,Mycobacterium tuberculosis,0,Negatives,MicroPos,Peritoneal Fluid,BF20dBF21bc part 2
+1090,Aspergillus fumigatus,0,Negatives,CAPosCyto,Pleural Fluid,BF23bc
+1090,Aspergillus terreus,0,Negatives,CAPosCyto,Pleural Fluid,BF23bc
+1090,Coccidioides immitis,0,Negatives,CAPosCyto,Pleural Fluid,BF23bc
+1090,Cryptococcus neoformans,0,Negatives,CAPosCyto,Pleural Fluid,BF23bc
+1090,Talaromyces marneffei,0,Negatives,CAPosCyto,Pleural Fluid,BF23bc
+1090,Histoplasma capsulatum,0,Negatives,CAPosCyto,Pleural Fluid,BF23bc
+1090,Mycobacterium tuberculosis,0,Negatives,CAPosCyto,Pleural Fluid,BF23bc
+1100,Aspergillus fumigatus,0,Negatives,MicroPos,BAL-UTM,BF23bc
+1100,Aspergillus terreus,0,Negatives,MicroPos,BAL-UTM,BF23bc
+1100,Coccidioides immitis,0,Negatives,MicroPos,BAL-UTM,BF23bc
+1100,Cryptococcus neoformans,0,Negatives,MicroPos,BAL-UTM,BF23bc
+1100,Talaromyces marneffei,0,Negatives,MicroPos,BAL-UTM,BF23bc
+1100,Histoplasma capsulatum,0,Negatives,MicroPos,BAL-UTM,BF23bc
+1100,Mycobacterium tuberculosis,0,Negatives,MicroPos,BAL-UTM,BF23bc
+1144,Aspergillus fumigatus,0,Negatives,MicroPos,FNA (frozen),BF23ab
+1144,Aspergillus terreus,0,Negatives,MicroPos,FNA (frozen),BF23ab
+1144,Coccidioides immitis,0,Negatives,MicroPos,FNA (frozen),BF23ab
+1144,Cryptococcus neoformans,0,Negatives,MicroPos,FNA (frozen),BF23ab
+1144,Talaromyces marneffei,0,Negatives,MicroPos,FNA (frozen),BF23ab
+1144,Histoplasma capsulatum,0,Negatives,MicroPos,FNA (frozen),BF23ab
+1144,Mycobacterium tuberculosis,0,Negatives,MicroPos,FNA (frozen),BF23ab
+1204,Aspergillus fumigatus,0,Negatives,CAProbPos,FNA,BF23cd
+1204,Aspergillus terreus,0,Negatives,CAProbPos,FNA,BF23cd
+1204,Coccidioides immitis,0,Negatives,CAProbPos,FNA,BF23cd
+1204,Cryptococcus neoformans,0,Negatives,CAProbPos,FNA,BF23cd
+1204,Talaromyces marneffei,0,Negatives,CAProbPos,FNA,BF23cd
+1204,Histoplasma capsulatum,0,Negatives,CAProbPos,FNA,BF23cd
+1204,Mycobacterium tuberculosis,0,Negatives,CAProbPos,FNA,BF23cd
+1205,Aspergillus fumigatus,0,Negatives,CAPosCyto,Pleural Fluid,BF23cd
+1205,Aspergillus terreus,0,Negatives,CAPosCyto,Pleural Fluid,BF23cd
+1205,Coccidioides immitis,0,Negatives,CAPosCyto,Pleural Fluid,BF23cd
+1205,Cryptococcus neoformans,0,Negatives,CAPosCyto,Pleural Fluid,BF23cd
+1205,Talaromyces marneffei,0,Negatives,CAPosCyto,Pleural Fluid,BF23cd
+1205,Histoplasma capsulatum,0,Negatives,CAPosCyto,Pleural Fluid,BF23cd
+1205,Mycobacterium tuberculosis,0,Negatives,CAPosCyto,Pleural Fluid,BF23cd
+1207,Aspergillus fumigatus,0,Negatives,CAPosCyto,Pleural Fluid,BF23cd
+1207,Aspergillus terreus,0,Negatives,CAPosCyto,Pleural Fluid,BF23cd
+1207,Coccidioides immitis,0,Negatives,CAPosCyto,Pleural Fluid,BF23cd
+1207,Cryptococcus neoformans,0,Negatives,CAPosCyto,Pleural Fluid,BF23cd
+1207,Talaromyces marneffei,0,Negatives,CAPosCyto,Pleural Fluid,BF23cd
+1207,Histoplasma capsulatum,0,Negatives,CAPosCyto,Pleural Fluid,BF23cd
+1207,Mycobacterium tuberculosis,0,Negatives,CAPosCyto,Pleural Fluid,BF23cd
+1208,Aspergillus fumigatus,0,Negatives,CAPosCyto,Peritoneal Fluid (immuno),BF23cd
+1208,Aspergillus terreus,0,Negatives,CAPosCyto,Peritoneal Fluid (immuno),BF23cd
+1208,Coccidioides immitis,0,Negatives,CAPosCyto,Peritoneal Fluid (immuno),BF23cd
+1208,Cryptococcus neoformans,0,Negatives,CAPosCyto,Peritoneal Fluid (immuno),BF23cd
+1208,Talaromyces marneffei,0,Negatives,CAPosCyto,Peritoneal Fluid (immuno),BF23cd
+1208,Histoplasma capsulatum,0,Negatives,CAPosCyto,Peritoneal Fluid (immuno),BF23cd
+1208,Mycobacterium tuberculosis,0,Negatives,CAPosCyto,Peritoneal Fluid (immuno),BF23cd
+1211,Aspergillus fumigatus,0,Negatives,CAPosCyto,Pleural Fluid,BF23cd
+1211,Aspergillus terreus,0,Negatives,CAPosCyto,Pleural Fluid,BF23cd
+1211,Coccidioides immitis,0,Negatives,CAPosCyto,Pleural Fluid,BF23cd
+1211,Cryptococcus neoformans,0,Negatives,CAPosCyto,Pleural Fluid,BF23cd
+1211,Talaromyces marneffei,0,Negatives,CAPosCyto,Pleural Fluid,BF23cd
+1211,Histoplasma capsulatum,0,Negatives,CAPosCyto,Pleural Fluid,BF23cd
+1211,Mycobacterium tuberculosis,0,Negatives,CAPosCyto,Pleural Fluid,BF23cd
+1212,Aspergillus fumigatus,0,Negatives,CAPosCyto,Pleural Fluid,BF23cd
+1212,Aspergillus terreus,0,Negatives,CAPosCyto,Pleural Fluid,BF23cd
+1212,Coccidioides immitis,0,Negatives,CAPosCyto,Pleural Fluid,BF23cd
+1212,Cryptococcus neoformans,0,Negatives,CAPosCyto,Pleural Fluid,BF23cd
+1212,Talaromyces marneffei,0,Negatives,CAPosCyto,Pleural Fluid,BF23cd
+1212,Histoplasma capsulatum,0,Negatives,CAPosCyto,Pleural Fluid,BF23cd
+1212,Mycobacterium tuberculosis,0,Negatives,CAPosCyto,Pleural Fluid,BF23cd
+1213,Aspergillus fumigatus,0,Negatives,CAPosFlow,Pleural Fluid,BF23cd
+1213,Aspergillus terreus,0,Negatives,CAPosFlow,Pleural Fluid,BF23cd
+1213,Coccidioides immitis,0,Negatives,CAPosFlow,Pleural Fluid,BF23cd
+1213,Cryptococcus neoformans,0,Negatives,CAPosFlow,Pleural Fluid,BF23cd
+1213,Talaromyces marneffei,0,Negatives,CAPosFlow,Pleural Fluid,BF23cd
+1213,Histoplasma capsulatum,0,Negatives,CAPosFlow,Pleural Fluid,BF23cd
+1213,Mycobacterium tuberculosis,0,Negatives,CAPosFlow,Pleural Fluid,BF23cd
+1215,Aspergillus fumigatus,0,Negatives,CAPosCyto,Pleural Fluid,BF23cd
+1215,Aspergillus terreus,0,Negatives,CAPosCyto,Pleural Fluid,BF23cd
+1215,Coccidioides immitis,0,Negatives,CAPosCyto,Pleural Fluid,BF23cd
+1215,Cryptococcus neoformans,0,Negatives,CAPosCyto,Pleural Fluid,BF23cd
+1215,Talaromyces marneffei,0,Negatives,CAPosCyto,Pleural Fluid,BF23cd
+1215,Histoplasma capsulatum,0,Negatives,CAPosCyto,Pleural Fluid,BF23cd
+1215,Mycobacterium tuberculosis,0,Negatives,CAPosCyto,Pleural Fluid,BF23cd
+1216,Aspergillus fumigatus,0,Negatives,CAProbPos,BAL,BF23cd
+1216,Aspergillus terreus,0,Negatives,CAProbPos,BAL,BF23cd
+1216,Coccidioides immitis,0,Negatives,CAProbPos,BAL,BF23cd
+1216,Cryptococcus neoformans,0,Negatives,CAProbPos,BAL,BF23cd
+1216,Talaromyces marneffei,0,Negatives,CAProbPos,BAL,BF23cd
+1216,Histoplasma capsulatum,0,Negatives,CAProbPos,BAL,BF23cd
+1216,Mycobacterium tuberculosis,0,Negatives,CAProbPos,BAL,BF23cd
+1217,Aspergillus fumigatus,0,Negatives,CAPosCyto,Pleural Fluid,BF23cd
+1217,Aspergillus terreus,0,Negatives,CAPosCyto,Pleural Fluid,BF23cd
+1217,Coccidioides immitis,0,Negatives,CAPosCyto,Pleural Fluid,BF23cd
+1217,Cryptococcus neoformans,0,Negatives,CAPosCyto,Pleural Fluid,BF23cd
+1217,Talaromyces marneffei,0,Negatives,CAPosCyto,Pleural Fluid,BF23cd
+1217,Histoplasma capsulatum,0,Negatives,CAPosCyto,Pleural Fluid,BF23cd
+1217,Mycobacterium tuberculosis,0,Negatives,CAPosCyto,Pleural Fluid,BF23cd
+1288,Aspergillus fumigatus,0,Negatives,MicroPos,Pleural Fluid,BF23f
+1288,Aspergillus terreus,0,Negatives,MicroPos,Pleural Fluid,BF23f
+1288,Coccidioides immitis,0,Negatives,MicroPos,Pleural Fluid,BF23f
+1288,Cryptococcus neoformans,0,Negatives,MicroPos,Pleural Fluid,BF23f
+1288,Talaromyces marneffei,0,Negatives,MicroPos,Pleural Fluid,BF23f
+1288,Histoplasma capsulatum,0,Negatives,MicroPos,Pleural Fluid,BF23f
+1288,Mycobacterium tuberculosis,0,Negatives,MicroPos,Pleural Fluid,BF23f
+1292,Aspergillus fumigatus,0,Negatives,MicroPos,BAL,BF23f
+1292,Aspergillus terreus,0,Negatives,MicroPos,BAL,BF23f
+1292,Coccidioides immitis,0,Negatives,MicroPos,BAL,BF23f
+1292,Cryptococcus neoformans,0,Negatives,MicroPos,BAL,BF23f
+1292,Talaromyces marneffei,0,Negatives,MicroPos,BAL,BF23f
+1292,Histoplasma capsulatum,0,Negatives,MicroPos,BAL,BF23f
+1292,Mycobacterium tuberculosis,0,Negatives,MicroPos,BAL,BF23f
+653,Aspergillus fumigatus,0,Negatives,MicroSelected,Pleural,BF23g
+653,Aspergillus terreus,0,Negatives,MicroSelected,Pleural,BF23g
+653,Coccidioides immitis,0,Negatives,MicroSelected,Pleural,BF23g
+653,Cryptococcus neoformans,0,Negatives,MicroSelected,Pleural,BF23g
+653,Talaromyces marneffei,30.215,Gold Standard,MicroSelected,Pleural,BF23g
+653,Histoplasma capsulatum,0,Negatives,MicroSelected,Pleural,BF23g
+653,Mycobacterium tuberculosis,0,Negatives,MicroSelected,Pleural,BF23g
