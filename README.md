@@ -1,5 +1,6 @@
 # 2021-BF-CA1
-Detection of Cryptogenic Malignancies from Metagenomic Sequencing of Body Fluids
+Detection of Cryptogenic Malignancies from Metagenomic Whole Genome Sequencing of Body Fluids
+
 
 
 
